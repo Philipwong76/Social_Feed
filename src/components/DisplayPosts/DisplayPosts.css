@@ -1,4 +1,5 @@
 .Form {
+    position: relative;
     width: 50%;
     background-color: white;
     border: 1px solid gray;
@@ -30,5 +31,19 @@
     padding: 0.5px;
     margin-right: .01px;
     margin-left:  .01px;
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.PostForm {
+    position: fixed;
+}
+
+.Like {
+    padding-left: 370px;
+    top: 100px;
+}
+
+.Dislike {
+    padding-left: 440px;
+    bottom: 100px; 
 }
