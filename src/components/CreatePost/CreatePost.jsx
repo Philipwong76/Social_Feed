@@ -26,7 +26,9 @@ const CreatePost = (props) => {
             <div className="PaddingFunction">
                 <label className="Post">Post</label>
                 <input type='text' value={post} onChange={(event) => setPost(event.target.value)} className="Posttext" />
-                <button type="sumbit" className="Createbutton">Create</button>
+            </div>
+            <div className="ButtonPost">
+            <button type="sumbit" className="Createbutton">Create</button>
             </div>
         </form>
 
