@@ -1,0 +1,49 @@
+.Createform {
+    width: 50%;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.Name {
+    color: gray;
+    font-family: sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.Nametext {
+    width: 70%;
+}
+
+
+.Post {
+    color: gray;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-right: 21px;
+    padding-left: 10px;
+}
+
+.Posttext{
+    width: 70%;
+    padding-bottom: 40px;
+}
+
+.PaddingFunction{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Createbutton {
+    margin-left: 35px;
+    color: white;
+    background-color: darkblue;
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 0 auto;
+
+}
